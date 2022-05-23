@@ -4,14 +4,9 @@ Python implementation of m-dimensional Iterative Closest Point method.  ICP find
 ```bash
 python test.py
 ```
+ClayFlannigan 
 
-
-# icp_ClayFlannigan
-
-
-```bash
-python icp_clayflannigan.py
-```
+[참고 페이지](https://daddynkidsmakers.blogspot.com/2021/09/icpiterative-closest-point.html)
 
 # icp_open3d
 - [ICP registraion](http://www.open3d.org/docs/0.7.0/tutorial/Basic/icp_registration.html#point-to-point-icp)
