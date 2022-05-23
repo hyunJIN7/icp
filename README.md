@@ -4,4 +4,5 @@ Python implementation of m-dimensional Iterative Closest Point method.  ICP find
 
 # icp_open3d
 - [ICP registraion](http://www.open3d.org/docs/0.7.0/tutorial/Basic/icp_registration.html#point-to-point-icp)
-- open3d로 작성한 ICP 작동 되나 확인해야해
+- AttributeError: module 'open3d' has no attribute 'registration'
+에러발생. 그리고 point cloud로 해야해서
